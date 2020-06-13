@@ -4,7 +4,7 @@
 
      ferrari.encender()
 
-     var lambo: Automovil = Automovil(col = "dorado ",mar = "akt",pre = 5000)
+     var lambo: Automovil = Automovil(col = "plateado ",mar = "akt",pre = 5000)
 
      lambo.frenar()
 
