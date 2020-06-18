@@ -15,6 +15,6 @@ class Automovil (mar: String,col: String,pre: Int){
         println("El carro marca "+ marca +" de color "+ color +" freno")
     }
     fun apagar(){
-        println("El carro  mas rapido git statusmas rapido "+ marca +" de coloresgit add "+ color +"se apago")
+        println("El carro es demasiado rapido "+ marca +" de coloresgit add "+ color +"se apago")
     }
 }
